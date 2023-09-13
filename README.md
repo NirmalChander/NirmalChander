@@ -14,11 +14,11 @@
 ### Nirmal github stats 
 <p align="center">
     <img
-        width="52%"
+        width="62%"
         src="https://github-readme-stats.vercel.app/api?username=Nirmalchander&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
     />
     <img
-        width="49%"
+        width="58%"
         src="https://github-readme-streak-stats.herokuapp.com?user=Nirmalchander&theme=tokyonight"
     />
 </p>
